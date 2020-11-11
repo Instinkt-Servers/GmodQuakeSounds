@@ -1,5 +1,5 @@
 # GmodQuakeSounds
-This will add the Quake Sounds to GarrysMod
+This will add the Quake Sounds to GarrysMod, like "Headshot", "Double Kill" etc
 
 Just Drag´nDrop the Folder to you Addons directory
 
